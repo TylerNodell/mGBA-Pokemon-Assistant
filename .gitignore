@@ -16,3 +16,4 @@ out/
 *.pid.lock
 *.seed
 *.pid.lock
+references/
